@@ -2,8 +2,8 @@
   "plans": [
     {
         "id": 2,
-        "name": "Plan 1",
-        "description": "Demonstration plan 1",
+        "name": "Plan 2",
+        "description": "Demonstration plan 2",
         "score": "100",
         "department": "Department1"
     },
