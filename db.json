@@ -8,6 +8,18 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "plans": [
+    {
+        "id": 1,
+        "name": "Plan 1",
+        "description": "Demonstration plan 1",
+        "score": "100",
+        "department": "Department1",
+        "category": {
+            "id": 11
+        }
+    }
+  ]
 }
 
